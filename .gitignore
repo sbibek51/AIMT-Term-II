@@ -1,8 +1,9 @@
 # ignore ALL .log files
 *.log
 
+# ignore ALL files inside data named survey results
+data/survey_results_public*
+
 # ignore ALL files in ANY directory named temp
 temp/
 
-# ignore ALL files inside data named survey results
-data/survey_results_public*
