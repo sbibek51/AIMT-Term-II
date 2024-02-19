@@ -4,6 +4,9 @@
 # ignore ALL files inside data named survey results
 data/survey_results_public*
 
+# ignore ALL assignment files inside folder assignment
+Assignment*/
+
 # ignore ALL files in ANY directory named temp
 temp/
 
